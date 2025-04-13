@@ -1,0 +1,13 @@
+# FastAPI backend
+fastapi
+uvicorn
+whisper
+SpeechRecognition
+numpy
+sounddevice
+soundfile
+gtts
+playsound
+torch  # Required for whisper
+pydub  # Optional, but useful for audio handling
+scipy
